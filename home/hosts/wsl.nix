@@ -13,6 +13,7 @@
     "direnv"
     "gh"
     "git"
+    "herdr"
     "zsh"
   ];
 }
