@@ -14,6 +14,7 @@
     "codex"
     "direnv"
     "gh"
+    "ghq"
     "git"
     "herdr"
     "zsh"
