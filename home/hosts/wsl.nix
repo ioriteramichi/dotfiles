@@ -10,6 +10,8 @@
   };
 
   dotfiles.enable = [
+    "claude-code"
+    "codex"
     "direnv"
     "gh"
     "git"
