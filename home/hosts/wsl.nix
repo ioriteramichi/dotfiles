@@ -10,7 +10,9 @@
   };
 
   dotfiles.enable = [
+    "direnv"
     "gh"
     "git"
+    "zsh"
   ];
 }

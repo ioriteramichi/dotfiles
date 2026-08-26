@@ -33,7 +33,6 @@
           statix
           just
           nh
-          direnv
         ];
       };
 
