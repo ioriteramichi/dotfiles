@@ -10,6 +10,7 @@
   };
 
   dotfiles.enable = [
+    "awscli"
     "claude-code"
     "codex"
     "direnv"
