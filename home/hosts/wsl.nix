@@ -18,6 +18,7 @@
     "ghq"
     "git"
     "herdr"
+    "starship"
     "zsh"
   ];
 }
