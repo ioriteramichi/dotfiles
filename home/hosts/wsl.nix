@@ -14,6 +14,7 @@
     "claude-code"
     "codex"
     "direnv"
+    "docker-sbx"
     "gh"
     "ghq"
     "git"
