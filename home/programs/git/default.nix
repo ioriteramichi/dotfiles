@@ -12,6 +12,7 @@
           email = "169627251+ioriteramichi@users.noreply.github.com";
         };
         init.defaultBranch = "main";
+        url."git@ssh.bitbucket.org:".insteadOf = "git@bitbucket.org:";
       };
     };
   };
